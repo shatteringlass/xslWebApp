@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root>
+    <report-reference-number>04976</report-reference-number>
+    <report-status>NEWT</report-status>
+    <trading-venue-identifier>XDMI</trading-venue-identifier>
+    <records>
+    <record>
+          <date-of-the-trading-day-of-the-reported-position>2018-01-11</date-of-the-trading-day-of-the-reported-position>
+          <reporting-entity-id>ABCDE1FGH2IJKLMNOPQ00</reporting-entity-id>
+          <position-holder-id>ABCDE1FGH2IJKLMNOPQ00</position-holder-id>
+          <email-address-of-position-holder>PROVA@DOMAIN.CO</email-address-of-position-holder>
+          <ultimate-parent-entity-id>ABCDE1FGH2IJKLMNOPQ00</ultimate-parent-entity-id>
+          <email-address-of-ultimate-parent-entity-id>PROVA@DOMAIN.CO</email-address-of-ultimate-parent-entity-id>
+          <parent-of-collective-investment-scheme-status>FALSE</parent-of-collective-investment-scheme-status>
+          <isin-code>IT0013970907</isin-code>
+          <venue-product-code>IDEP</venue-product-code>
+          <position-type>FUTR</position-type>
+          <position-maturity>OTHR</position-maturity>
+          <position-quantity>-44.32</position-quantity>
+          <notation-of-the-position-quantity>LOTS</notation-of-the-position-quantity>
+          <delta-equivalent-position-quantity> </delta-equivalent-position-quantity>
+          <position-risk-reducing>FALSE</position-risk-reducing>
+</record>
+    <record>
+          <date-of-the-trading-day-of-the-reported-position>2018-01-11</date-of-the-trading-day-of-the-reported-position>
+          <reporting-entity-id>ABCDE1FGH2IJKLMNOPQ00</reporting-entity-id>
+          <position-holder-id>ABCDE1FGH2IJKLMNOPQ00</position-holder-id>
+          <email-address-of-position-holder>PROVA@DOMAIN.CO</email-address-of-position-holder>
+          <ultimate-parent-entity-id>ABCDE1FGH2IJKLMNOPQ00</ultimate-parent-entity-id>
+          <email-address-of-ultimate-parent-entity-id>PROVA@DOMAIN.CO</email-address-of-ultimate-parent-entity-id>
+          <parent-of-collective-investment-scheme-status>FALSE</parent-of-collective-investment-scheme-status>
+          <isin-code>IT0014208109</isin-code>
+          <venue-product-code>IDEP</venue-product-code>
+          <position-type>FUTR</position-type>
+          <position-maturity>SPOT</position-maturity>
+          <position-quantity>-50</position-quantity>
+          <notation-of-the-position-quantity>LOTS</notation-of-the-position-quantity>
+          <delta-equivalent-position-quantity> </delta-equivalent-position-quantity>
+          <position-risk-reducing>FALSE</position-risk-reducing>
+</record>
+    <record>
+          <date-of-the-trading-day-of-the-reported-position>2018-01-11</date-of-the-trading-day-of-the-reported-position>
+          <reporting-entity-id>ABCDE1FGH2IJKLMNOPQ00</reporting-entity-id>
+          <position-holder-id>ABCDE1FGH2IJKLMNOPQ00</position-holder-id>
+          <email-address-of-position-holder>PROVA@DOMAIN.CO</email-address-of-position-holder>
+          <ultimate-parent-entity-id>ABCDE1FGH2IJKLMNOPQ00</ultimate-parent-entity-id>
+          <email-address-of-ultimate-parent-entity-id>PROVA@DOMAIN.CO</email-address-of-ultimate-parent-entity-id>
+          <parent-of-collective-investment-scheme-status>FALSE</parent-of-collective-investment-scheme-status>
+          <isin-code>IT0014292467</isin-code>
+          <venue-product-code>IDEP</venue-product-code>
+          <position-type>FUTR</position-type>
+          <position-maturity>OTHR</position-maturity>
+          <position-quantity>-35</position-quantity>
+          <notation-of-the-position-quantity>LOTS</notation-of-the-position-quantity>
+          <delta-equivalent-position-quantity> </delta-equivalent-position-quantity>
+          <position-risk-reducing>FALSE</position-risk-reducing>
+</record>
+    <record>
+          <date-of-the-trading-day-of-the-reported-position>2018-01-11</date-of-the-trading-day-of-the-reported-position>
+          <reporting-entity-id>ABCDE1FGH2IJKLMNOPQ00</reporting-entity-id>
+          <position-holder-id>ABCDE1FGH2IJKLMNOPQ00</position-holder-id>
+          <email-address-of-position-holder>PROVA@DOMAIN.CO</email-address-of-position-holder>
+          <ultimate-parent-entity-id>ABCDE1FGH2IJKLMNOPQ00</ultimate-parent-entity-id>
+          <email-address-of-ultimate-parent-entity-id>PROVA@DOMAIN.CO</email-address-of-ultimate-parent-entity-id>
+          <parent-of-collective-investment-scheme-status>FALSE</parent-of-collective-investment-scheme-status>
+          <isin-code>IT0013778490</isin-code>
+          <venue-product-code>IDEB</venue-product-code>
+          <position-type>FUTR</position-type>
+          <position-maturity>OTHR</position-maturity>
+          <position-quantity>-18.2</position-quantity>
+          <notation-of-the-position-quantity>LOTS</notation-of-the-position-quantity>
+          <delta-equivalent-position-quantity> </delta-equivalent-position-quantity>
+          <position-risk-reducing>FALSE</position-risk-reducing>
+</record>
+    <record>
+          <date-of-the-trading-day-of-the-reported-position>2018-01-11</date-of-the-trading-day-of-the-reported-position>
+          <reporting-entity-id>ABCDE1FGH2IJKLMNOPQ00</reporting-entity-id>
+          <position-holder-id>ABCDE1FGH2IJKLMNOPQ00</position-holder-id>
+          <email-address-of-position-holder>PROVA@DOMAIN.CO</email-address-of-position-holder>
+          <ultimate-parent-entity-id>ABCDE1FGH2IJKLMNOPQ00</ultimate-parent-entity-id>
+          <email-address-of-ultimate-parent-entity-id>PROVA@DOMAIN.CO</email-address-of-ultimate-parent-entity-id>
+          <parent-of-collective-investment-scheme-status>FALSE</parent-of-collective-investment-scheme-status>
+          <isin-code>IT0014142738</isin-code>
+          <venue-product-code>IDEP</venue-product-code>
+          <position-type>FUTR</position-type>
+          <position-maturity>OTHR</position-maturity>
+          <position-quantity>-45</position-quantity>
+          <notation-of-the-position-quantity>LOTS</notation-of-the-position-quantity>
+          <delta-equivalent-position-quantity> </delta-equivalent-position-quantity>
+          <position-risk-reducing>FALSE</position-risk-reducing>
+</record>
+    <record>
+          <date-of-the-trading-day-of-the-reported-position>2018-01-11</date-of-the-trading-day-of-the-reported-position>
+          <reporting-entity-id>ABCDE1FGH2IJKLMNOPQ00</reporting-entity-id>
+          <position-holder-id>ABCDE1FGH2IJKLMNOPQ00</position-holder-id>
+          <email-address-of-position-holder>PROVA@DOMAIN.CO</email-address-of-position-holder>
+          <ultimate-parent-entity-id>ABCDE1FGH2IJKLMNOPQ00</ultimate-parent-entity-id>
+          <email-address-of-ultimate-parent-entity-id>PROVA@DOMAIN.CO</email-address-of-ultimate-parent-entity-id>
+          <parent-of-collective-investment-scheme-status>FALSE</parent-of-collective-investment-scheme-status>
+          <isin-code>IT0014208091</isin-code>
+          <venue-product-code>IDEB</venue-product-code>
+          <position-type>FUTR</position-type>
+          <position-maturity>SPOT</position-maturity>
+          <position-quantity>-7.47</position-quantity>
+          <notation-of-the-position-quantity>LOTS</notation-of-the-position-quantity>
+          <delta-equivalent-position-quantity> </delta-equivalent-position-quantity>
+          <position-risk-reducing>FALSE</position-risk-reducing>
+</record>
+    <record>
+          <date-of-the-trading-day-of-the-reported-position>2018-01-11</date-of-the-trading-day-of-the-reported-position>
+          <reporting-entity-id>ABCDE1FGH2IJKLMNOPQ00</reporting-entity-id>
+          <position-holder-id>ABCDE1FGH2IJKLMNOPQ00</position-holder-id>
+          <email-address-of-position-holder>PROVA@DOMAIN.CO</email-address-of-position-holder>
+          <ultimate-parent-entity-id>ABCDE1FGH2IJKLMNOPQ00</ultimate-parent-entity-id>
+          <email-address-of-ultimate-parent-entity-id>PROVA@DOMAIN.CO</email-address-of-ultimate-parent-entity-id>
+          <parent-of-collective-investment-scheme-status>FALSE</parent-of-collective-investment-scheme-status>
+          <isin-code>IT0014292459</isin-code>
+          <venue-product-code>IDEB</venue-product-code>
+          <position-type>FUTR</position-type>
+          <position-maturity>OTHR</position-maturity>
+          <position-quantity>-18.58</position-quantity>
+          <notation-of-the-position-quantity>LOTS</notation-of-the-position-quantity>
+          <delta-equivalent-position-quantity> </delta-equivalent-position-quantity>
+          <position-risk-reducing>FALSE</position-risk-reducing>
+</record>
+    <record>
+          <date-of-the-trading-day-of-the-reported-position>2018-01-11</date-of-the-trading-day-of-the-reported-position>
+          <reporting-entity-id>ABCDE1FGH2IJKLMNOPQ00</reporting-entity-id>
+          <position-holder-id>ABCDE1FGH2IJKLMNOPQ00</position-holder-id>
+          <email-address-of-position-holder>PROVA@DOMAIN.CO</email-address-of-position-holder>
+          <ultimate-parent-entity-id>ABCDE1FGH2IJKLMNOPQ00</ultimate-parent-entity-id>
+          <email-address-of-ultimate-parent-entity-id>PROVA@DOMAIN.CO</email-address-of-ultimate-parent-entity-id>
+          <parent-of-collective-investment-scheme-status>FALSE</parent-of-collective-investment-scheme-status>
+          <isin-code>IT0014351503</isin-code>
+          <venue-product-code>IDEP</venue-product-code>
+          <position-type>FUTR</position-type>
+          <position-maturity>OTHR</position-maturity>
+          <position-quantity>-9.55</position-quantity>
+          <notation-of-the-position-quantity>LOTS</notation-of-the-position-quantity>
+          <delta-equivalent-position-quantity> </delta-equivalent-position-quantity>
+          <position-risk-reducing>FALSE</position-risk-reducing>
+</record>
+    <record>
+          <date-of-the-trading-day-of-the-reported-position>2018-01-11</date-of-the-trading-day-of-the-reported-position>
+          <reporting-entity-id>ABCDE1FGH2IJKLMNOPQ00</reporting-entity-id>
+          <position-holder-id>ABCDE1FGH2IJKLMNOPQ00</position-holder-id>
+          <email-address-of-position-holder>PROVA@DOMAIN.CO</email-address-of-position-holder>
+          <ultimate-parent-entity-id>ABCDE1FGH2IJKLMNOPQ00</ultimate-parent-entity-id>
+          <email-address-of-ultimate-parent-entity-id>PROVA@DOMAIN.CO</email-address-of-ultimate-parent-entity-id>
+          <parent-of-collective-investment-scheme-status>FALSE</parent-of-collective-investment-scheme-status>
+          <isin-code>IT0013778516</isin-code>
+          <venue-product-code>IDEP</venue-product-code>
+          <position-type>FUTR</position-type>
+          <position-maturity>OTHR</position-maturity>
+          <position-quantity>-44.32</position-quantity>
+          <notation-of-the-position-quantity>LOTS</notation-of-the-position-quantity>
+          <delta-equivalent-position-quantity> </delta-equivalent-position-quantity>
+          <position-risk-reducing>FALSE</position-risk-reducing>
+</record>
+    <record>
+          <date-of-the-trading-day-of-the-reported-position>2018-01-11</date-of-the-trading-day-of-the-reported-position>
+          <reporting-entity-id>ABCDE1FGH2IJKLMNOPQ00</reporting-entity-id>
+          <position-holder-id>ABCDE1FGH2IJKLMNOPQ00</position-holder-id>
+          <email-address-of-position-holder>PROVA@DOMAIN.CO</email-address-of-position-holder>
+          <ultimate-parent-entity-id>ABCDE1FGH2IJKLMNOPQ00</ultimate-parent-entity-id>
+          <email-address-of-ultimate-parent-entity-id>PROVA@DOMAIN.CO</email-address-of-ultimate-parent-entity-id>
+          <parent-of-collective-investment-scheme-status>FALSE</parent-of-collective-investment-scheme-status>
+          <isin-code>IT0013970899</isin-code>
+          <venue-product-code>IDEB</venue-product-code>
+          <position-type>FUTR</position-type>
+          <position-maturity>OTHR</position-maturity>
+          <position-quantity>-49.07</position-quantity>
+          <notation-of-the-position-quantity>LOTS</notation-of-the-position-quantity>
+          <delta-equivalent-position-quantity> </delta-equivalent-position-quantity>
+          <position-risk-reducing>FALSE</position-risk-reducing>
+</record>
+    <record>
+          <date-of-the-trading-day-of-the-reported-position>2018-01-11</date-of-the-trading-day-of-the-reported-position>
+          <reporting-entity-id>ABCDE1FGH2IJKLMNOPQ00</reporting-entity-id>
+          <position-holder-id>ABCDE1FGH2IJKLMNOPQ00</position-holder-id>
+          <email-address-of-position-holder>PROVA@DOMAIN.CO</email-address-of-position-holder>
+          <ultimate-parent-entity-id>ABCDE1FGH2IJKLMNOPQ00</ultimate-parent-entity-id>
+          <email-address-of-ultimate-parent-entity-id>PROVA@DOMAIN.CO</email-address-of-ultimate-parent-entity-id>
+          <parent-of-collective-investment-scheme-status>FALSE</parent-of-collective-investment-scheme-status>
+          <isin-code>IT0014142712</isin-code>
+          <venue-product-code>IDEB</venue-product-code>
+          <position-type>FUTR</position-type>
+          <position-maturity>OTHR</position-maturity>
+          <position-quantity>-33.75</position-quantity>
+          <notation-of-the-position-quantity>LOTS</notation-of-the-position-quantity>
+          <delta-equivalent-position-quantity> </delta-equivalent-position-quantity>
+          <position-risk-reducing>FALSE</position-risk-reducing>
+</record>
+
+    </records>
+</root>

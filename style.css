@@ -1,0 +1,42 @@
+* {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+
+}
+
+#info {
+  background-color:lightgray;
+  padding:1vw;
+  border-radius: 1vw;
+  margin-top:-8vw;
+  margin-bottom:1vw;
+}
+
+#info::before {
+  content:"Report information";
+  font-weight:bolder;
+  font-size:110%;
+  color:green;
+}
+
+#report {
+    border-collapse: collapse;
+    width: 100%;
+    font-size: .7em;
+}
+
+#report td, #report th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#report tr:nth-child(even){background-color: #f2f2f2;}
+
+#report tr:hover {background-color: #ddd;}
+
+#report th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #4CAF50;
+    color: white;
+}
